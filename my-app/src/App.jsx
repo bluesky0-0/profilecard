@@ -6,8 +6,8 @@ function App() {
 
   const name = "WebCaRdS";
   const title = "DESIGNER";
-  const phone = "+91 9477 847 604";
-  const email = "yourinbox@mail.com";
+  const phone = "+11 200 300 400";
+  const email = "move14716@gmail.com";
   const address = "India, WB";
   const website = "https://www.youtube.com/@Web_CaRdS";
   const brandName = "WebCaRdS";
